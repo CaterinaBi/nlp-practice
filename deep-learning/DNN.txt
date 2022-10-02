@@ -1,0 +1,3 @@
+Implements densely connected neural network with single output.
+
+Shows how to find a non-linear boundary to separate two classes.
